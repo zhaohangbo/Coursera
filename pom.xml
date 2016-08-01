@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>Coursera</name>
-  <url>http://maven.apache.org</url>
+  <url>https://github.com/zhaohangbo/Coursera</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
